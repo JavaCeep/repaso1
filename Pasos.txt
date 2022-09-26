@@ -13,3 +13,6 @@ para guardarlo debería ejecutar el siguiente comando:
 3. Guardo mis cambios a nivel local con el siguiente comando:
 
 > git commit -m "Nuevo archivo Pasos.txt"
+
+4. Voy a modificar este fichero en remoto, y guardar sus cambios para actualizar después 
+mi repo local.
