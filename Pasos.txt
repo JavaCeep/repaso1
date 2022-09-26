@@ -1,0 +1,15 @@
+Secuencia de pasos realizados:
+
+1. He clonado mi repositorio desde el remoto a local con el siguiente comando:
+
+> git clone https://github.com/JavaCeep/repaso1.git
+
+2. Después he creado un nuevo archivo pasos llamado Pasos.txt:
+2a. Git detecta el nuevo archivo y sus posibles cambios y si lo quiero añadir
+para guardarlo debería ejecutar el siguiente comando:
+
+> git add Pasos.txt
+
+3. Guardo mis cambios a nivel local con el siguiente comando:
+
+> git commit -m "Nuevo archivo Pasos.txt"
